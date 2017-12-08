@@ -1,0 +1,8 @@
+# jar_of_light build property overrides
+#
+network.port=8266
+
+# Change the password to the device password you
+# set in the configuration portal
+#network.password=
+#network.auth_upload=yes
