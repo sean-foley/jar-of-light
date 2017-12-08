@@ -6,6 +6,10 @@ network control.  Package all this up in a mason jar and you have... the Jar-of-
 
 ![jar-of-light](./media/jar-of-light-01.jpg)
 
+
+
+[![Watch the video](https://raw.githubusercontent.com/sean-foley/jar-of-light/master/media/jar-of-light-01.jpg)](https://github.com/sean-foley/jar-of-light/raw/master/media/jar-of-light.mp4)
+
 ## Getting Started
 
 You will need to prototype the circuit first.  While you can get some of these parts through cheaper sources such as ebay,
