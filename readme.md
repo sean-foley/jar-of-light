@@ -33,15 +33,15 @@ PARTS:
 ### Prerequisites
 
 You will need the Arduino - make sure to install the proper board
-support using the Arduino IDE Board Manager option
+support using the Arduino IDE Board Manager option  
 https://www.arduino.cc/en/Main/Software
 
 Install the following libraries into your Arduino/Libraries folder
 
-Adafruit Neopixel Library
+Adafruit Neopixel Library  
 https://github.com/adafruit/Adafruit_NeoPixel
 
-ESP8266 Core Library for Arduino
+ESP8266 Core Library for Arduino  
 https://github.com/esp8266/Arduino
 
 Optional - I used Visual Studio 2017 with the Visual Micro add-on.  It is much easier
@@ -72,27 +72,27 @@ The RED LED indicates activity. It will flash to indicate the device is operatin
 
 ## Examples
 
-Turn off all the leds
+Turn off all the leds  
 http://jar-of-light.local/led/command/off
 
-Turn on all of the leds
+Turn on all of the leds  
 http://jar-of-light.local/led/command/on
 
-Transitions thru various colors on the color wheel
+Transitions thru various colors on the color wheel  
 http://jar-of-light.local/led/command/wheel
 
 Animates the leds by pulsing from dim to brighter, then
-from brighter to dimmer
+from brighter to dimmer  
 http://jar-of-light.local/led/command/pulse
 
-Strobes the leds by quickly turning them off to on
+Strobes the leds by quickly turning them off to on  
 http://jar-of-light.local/led/command/strobe
 
 Randomly turns one (1) led on, which causes
-a flickering effect
+a flickering effect  
 http://jar-of-light.local/led/command/flicker
 
-Demo mode will cycle thru all of the various animations
+Demo mode will cycle thru all of the various animations  
 http://jar-of-light.local/led/command/demo
 
 
