@@ -16,6 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="jar_of_light.ino" />
+    <None Include="readme.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.jar_of_light.vsarduino.h">
@@ -36,6 +37,9 @@
     <ClInclude Include="ledhelper.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="discoveryproxy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ledanimator.cpp">
@@ -53,5 +57,11 @@
     <ClCompile Include="ledhelper.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="discoveryproxy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="board.txt" />
   </ItemGroup>
 </Project>

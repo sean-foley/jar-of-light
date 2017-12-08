@@ -38,6 +38,9 @@ https://www.arduino.cc/en/Main/Software
 
 Install the following libraries into your Arduino/Libraries folder
 
+Adafruit Neopixel Library
+https://github.com/adafruit/Adafruit_NeoPixel
+
 ESP8266 Core Library for Arduino
 https://github.com/esp8266/Arduino
 
